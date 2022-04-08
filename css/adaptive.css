@@ -821,6 +821,9 @@
     #main {
         background-position: 71% center;
     }
+    #main h1 {
+        margin-top: 65px;
+    }
     #learn-container {
         margin-left: 20px;
         margin-right: 20px;

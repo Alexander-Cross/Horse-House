@@ -1138,7 +1138,7 @@ footer svg {
 
 /*order-success popup*/
 #order-success.popup-fon {
-    display: flex;
+    display: none;
     align-items: center;
     justify-content: center;
 }
