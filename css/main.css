@@ -1178,4 +1178,8 @@ footer svg {
 #order-success-logo .logo-text {
     color: #0c0b0a;
 }
+* {
+    -webkit-tap-highlight-color: transparent;
+}
+
 
