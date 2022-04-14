@@ -1014,6 +1014,7 @@ footer svg {
     width: 100%;
     background: rgba(12, 11, 10, 0.88);
     position: fixed;
+    z-index: 100;
     top: 0;
     left: 0;
     display: none;
